@@ -1,0 +1,6 @@
+{
+  "name": "<%= COMPONENT_NAME %>",
+  "version": "1.0.0",
+  "main": "<%= COMPONENT_NAME %>.js",
+  "private": true
+}
